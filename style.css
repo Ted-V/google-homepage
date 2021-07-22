@@ -32,4 +32,8 @@ header {
     text-decoration: underline;
 }
 
-
+.logo {
+    display: flex;
+    justify-content: center;
+    padding-top: 12em;
+}
