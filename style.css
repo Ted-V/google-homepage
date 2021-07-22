@@ -1,0 +1,35 @@
+body {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #222;
+    background: #fff;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.header-left {
+    display: flex;
+}
+
+.header-right {
+    display: flex;
+}
+
+.header-links {
+    padding: 1em 1em; 
+}
+
+.icons {
+   padding: 0 1em ;
+}
+
+.header-links:hover, .icons:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
