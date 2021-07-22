@@ -1,0 +1,1 @@
+This is a Google homepage copy made using HTML and CSS. The goal of this project is to get familiar with placing HTML elements and applying basic styling in CSS.
